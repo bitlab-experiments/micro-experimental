@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="screenshots/screenshot1.png" />
+<img width="1200" height="800" alt="GHBanner" src="screenshots/screenshot1.png" />
 </div>
 
 ## Run Locally
